@@ -45,3 +45,51 @@
       - text: GitHub
         link: https://github.com/ishaanshah/AmongUs
     image: https://dummyimage.com/640x360/ddd/ddd
+
+- category: Development
+  projects:
+  - name: ListenBrainz
+    description: Worked on creating statistics and visualization for the community. Tech Stack - ReactJS, d3.js, Apache Spark, Python (Flask)
+    links:
+      - text: Demo
+        link: https://listenbrainz.org/user/ishaanshah/reports/?range=all_time
+      - text: Blog
+        link: https://blog.metabrainz.org/2020/08/30/gsoc-2020-adding-statistics-and-graphs-for-listenbrainz-users-and-community/
+    image: /assets/img/listenbrainz.webp
+
+  - name: FakedIn
+    description: A job portal built using the MERN stack.
+    links:
+      - text: GitHub
+        link: https://github.com/ishaanshah/FakedIn
+    image: https://dummyimage.com/640x360/ddd/ddd
+
+  - name: xv6++
+    description: Addition of newer scheduling algorithms and system calls to MIT's xv6 operating system.
+    links:
+      - text: GitHub
+        link: https://github.com/ishaanshah/xv6-public
+    empty: true
+
+- category: Systems
+  projects:
+  - name: Shi
+    description: A POSIX compliant shell written purely in C using only basic system calls. Functionalities include basic shell commands, background processes, redirection and piping.
+    links:
+      - text: GitHub
+        link: https://github.com/ishaanshah/shi
+    image: https://res.cloudinary.com/practicaldev/image/fetch/s--ggy90Gr7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/71jsf4ymyf93rz7m45m4.png
+
+  - name: xv6++
+    description: Addition of newer scheduling algorithms and system calls to MIT's xv6 operating system.
+    links:
+      - text: GitHub
+        link: https://github.com/ishaanshah/xv6-public
+    image: https://via.placeholder.com/720/000000/00FF00?text=xv6
+
+  - name: xv6++
+    description: Addition of newer scheduling algorithms and system calls to MIT's xv6 operating system.
+    links:
+      - text: GitHub
+        link: https://github.com/ishaanshah/xv6-public
+    empty: true
