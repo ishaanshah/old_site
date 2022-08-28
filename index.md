@@ -16,7 +16,6 @@ I am currently working on accurate real-time rendering of layered materials with
 Apart from this, I have been working on the problem of hand reconstrucion with [Dr. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/).
 
 I have previously worked as an intern at [IBM Research](https://research.ibm.com/labs/india/) and [Metabrainz Foundation](https://metabrainz.org/) (GSoC 2020).
-and improving college infrastructure
 Apart from my research interests, I love building well-designed, well-written, and helpful software systems. Take a look a the [projects](/projects) page to find projects I’ve worked on.
 
 ## Links
