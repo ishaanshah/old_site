@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<h2>Projects</h2>
+{% for category in site.data.projects %}
+<h3>{{ category.category }}</h3>
+<div class="project">
+  {% for project in category.projects %}
+  {% if project.empty == true %}
+  <div class="project-container empty">
+  </div>
+  {% else %}
+  <div class="project-container">
+    <div style="height: 40%">
+      <img src="{{ project.image }}">
+    </div>
+    <div style="height: 5%">
+    <h4>{{ project.name }}</h4>
+    </div>
+    <div style="height: 5%">
+    <span>
+      {% for link in project.links %}
+      <a href="{{ link.link }}">{{ link.text }}</a>
+      {% if forloop.last == false %} / {% endif %}
+      {% endfor %}
+    </span>
+    </div>
+    <p>
+     {{ project.description }}
+    </p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endfor %}

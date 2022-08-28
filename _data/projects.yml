@@ -1,0 +1,47 @@
+- category: Vision & Graphics
+  projects:
+  - name: Ray Tracer
+    description: A minimal GPU accelerated ray tracer written in OpenGL. Features include next event estimation, GGX BSDF, BVH acceleration and more.
+    links:
+      - text: GitHub
+        link: https://github.com/ishaanshah/raytracer
+    image: /assets/img/raytracer.webp
+
+  - name: HPG22 Student Competition
+    description:  Submission for HPG 2022 Student Compettion.
+    links:
+      - text: GitHub
+        link: https://github.com/ishaanshah/hpg22_student_competition
+      - text: ShaderToy
+        link: https://www.shadertoy.com/view/sl3yD2
+    image: /assets/img/hpg22.webp
+
+  - name: Botanical Trees
+    description: Unofficial implementation of the paper "Learning to reconstruct botanical trees from single images"
+    links:
+      - text: GitHub
+        link: https://github.com/ishaanshah/botanical_trees
+    image: /assets/img/botanical_trees.webp
+    
+  - name: Superpixel Segmentation
+    description: Unofficial python implementation of the paper "Lazy Random Walks for Superpixel Segmentation"
+    links:
+      - text: GitHub
+        link: https://github.com/ishaanshah/lrw_superpixel
+    image: /assets/img/superpixel.gif
+
+  - name: SkyeForce
+    description: A 3D space shooter game made using ThreeJS. Trailer for the game was made in Blender.
+    links:
+      - text: GitHub
+        link: https://github.com/ishaanshah/SkyeForce
+      - text: Trailer
+        link: http://www.youtube.com/watch?v=6UNGyH458ZY
+    image: /assets/img/skyeforce.webp
+
+  - name: AmongUs
+    description: A pacman like 2D game written in OpenGL.
+    links:
+      - text: GitHub
+        link: https://github.com/ishaanshah/AmongUs
+    image: https://dummyimage.com/640x360/ddd/ddd

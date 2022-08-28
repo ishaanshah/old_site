@@ -7,8 +7,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ishaanshah"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "© Copyright 2022 Ishaan Shah."
 
 sass:
     style: compressed
@@ -16,8 +15,10 @@ sass:
 
 nav:
  - name: "Projects"
-   link: "/projects/"
+   link: "/projects"
+ - name: "Publications"
+   link: "/publications"
  - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "/resume.pdf"
+
+twitter_username: "ishaan_n_shah"
