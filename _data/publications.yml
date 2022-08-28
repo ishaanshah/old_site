@@ -1,0 +1,16 @@
+- name: Automated tree generation using grammar & particle system
+  authors:
+    - name: Aryamaan Jain
+    - name: Jyoti Sunkara
+    - name: Ishaan Shah
+    - name: Avinash Sharma
+    - name: K. S. Rajan
+  links:
+    - text: Project Page
+      link: https://3dcomputervision.github.io/publications/tree_generation_icvgip.html
+    - text: Code
+      link: https://github.com/ishaanshah/Grammar-Trees
+    - text: Paper
+      link: https://dl.acm.org/doi/pdf/10.1145/3490035.3490285
+  conference: ICVGIP 2021
+  image: /assets/img/tree_generation.gif

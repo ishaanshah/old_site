@@ -81,6 +81,31 @@
       visibility: hidden;
     }
 
+    .publication {
+      display: flex;
+      justify-content: space-between;
+      height: 10vh;
+
+      .publication-image {
+        flex: 1;
+        margin-right: 2%;
+        img {
+          height: 100%;
+          width: 100%;
+          object-fit: cover;
+        }
+      }
+      .publication-container {
+        h4 {
+          margin: 0 0 0 0;
+        }
+        flex: 3;
+        p {
+          padding: 5;
+        }
+      }
+    }
+
     img {
         text-align: center;
         width: 100%;
