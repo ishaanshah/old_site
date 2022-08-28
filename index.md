@@ -4,42 +4,20 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a Dual Degree student at [IIIT Hyderabad](https://iiit.ac.in).
+I work on human body and loose clothing reconstrucion at [CVIT, IIIT-H](https://cvit.iiit.ac.in) with [Dr. Avinash Sharma](https://3dcomputervision.iiit.ac.in) 
+I have previously also worked on procedural tree generation.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I am also exploring the related field of Computer Graphics. I am specifically interested in real-time rendering. I am currently working on accurate real-time rendering of layered materials with [Aakash KT](https://aakashkt.github.io).
 
-## Research Interest
+Apart from this, I have been working on the problem of hand reconstrucion with [Dr. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I have previously worked as an intern at [IBM Research](https://research.ibm.com/labs/india/) and [Metabrainz Foundation](https://metabrainz.org/) (GSoC 2020). Apart from my research interests, I love building well-designed, well-written, and helpful software systems. Take a look a the [projects](/projects) page to find projects I’ve worked on.
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Links
+- [E-Mail](mailto:ishaan.n.shah@gmail.com)
+- [GitHub](https://github.com/ishaanshah)
+- [LinkedIn](https://www.linkedin.com/in/ishaan-shah-57a1341a4/)
+- [Twitter](https://twitter.com/ishaan_n_shah)

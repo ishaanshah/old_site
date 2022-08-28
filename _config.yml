@@ -1,14 +1,13 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Ishaan Shah
+url: "https://ishaanshah.github.io"
+baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/ishaanshah"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
@@ -16,8 +15,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+ - name: "Projects"
+   link: "/projects/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
