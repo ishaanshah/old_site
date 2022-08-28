@@ -18,6 +18,8 @@ nav:
    link: "/projects"
  - name: "Publications"
    link: "/publications"
+ - name: "Notes"
+   link: "/notes"
  - name: "Resume"
    link: "/resume.pdf"
 
