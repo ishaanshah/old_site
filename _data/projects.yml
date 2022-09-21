@@ -4,7 +4,7 @@
     description: Implementation of Iterative Closest Point and Laplpacian Mesh editing writting in Python
     links:
       - text: GitHub
-        link: https://github.com/ishaanshah/raytracer
+        link: https://github.com/ishaanshah/SimpleGP
     image: /assets/img/icp.webp
   - name: Ray Tracer
     description: A minimal GPU accelerated ray tracer written in OpenGL. Features include next event estimation, GGX BSDF, BVH acceleration and more.
