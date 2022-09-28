@@ -11,7 +11,7 @@ Hi! I am a Dual Degree student at [IIIT Hyderabad](https://iiit.ac.in).
 I work on human body and loose clothing reconstrucion at [CVIT, IIIT-H](https://cvit.iiit.ac.in) with [Dr. Avinash Sharma](https://3dcomputervision.github.io).
 I have previously worked on procedural tree generation.
 
-I am also exploring the related field of Computer Graphics. I am specifically interested in real-time rendering.
+I am also exploring the related field of Computer Graphics. I am specifically interested in physically based rendering & light transport simulation.
 I am currently working on accurate real-time rendering of layered materials with [Aakash KT](https://aakashkt.github.io).
 
 Apart from this, I have been working on the problem of hand reconstrucion with [Dr. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/).
