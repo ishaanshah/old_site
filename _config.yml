@@ -1,25 +1,25 @@
 title: Ishaan Shah
-url: "https://ishaanshah.github.io"
-baseurl: ""
+url: "/"
+baseurl: "https://ishaanshah.github.io"
 
 markdown: kramdown
 
 tracking_id: "G-GM3STVD4HN"
 
 footer: yes
-footer_text: "© Copyright 2022 Ishaan Shah."
+footer_text: "© Copyright 2023 Ishaan Shah."
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "Projects"
-   link: "/projects"
  - name: "Publications"
    link: "/publications"
- - name: "Notes"
-   link: "/notes"
+ - name: "Projects"
+   link: "/projects"
+#  - name: "Notes"
+#    link: "/notes"
  - name: "Resume"
    link: "/resume.pdf"
 
